@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Neue Montreal";
+    font-family: 'Neue Montreal', Arial, Helvetica, sans-serif ;
 }
 html{
     scroll-behavior: smooth;
@@ -959,7 +959,7 @@ video{
 
 /* Case Study 1*/
 #main{
-    font-family: 'Neue Montreal';
+    font-family: Arial, Helvetica, sans-serif;
     width: 100%;
 }
 #hero{
@@ -1018,7 +1018,7 @@ video{
 
 #csoverview h1{
     margin-left: 120px;
-    font-family: 'Neue Montreal';
+    font-family: Arial, Helvetica, sans-serif;
     color: #444444;
     font-size: 2rem;
 }
@@ -1029,12 +1029,12 @@ video{
     line-height: 32px;
     color: #000000;
     margin-right: 120px;
-    font-family: 'Neue Montreal';
+    font-family:Arial, Helvetica, sans-serif;
 }
 #csoverview p span{
     color: #444444;
     font-weight: 700;
-    font-family: 'Neue Montreal';
+    font-family: Arial, Helvetica, sans-serif;
     background-color: #ffe4c4b8;
     
 }
@@ -1045,7 +1045,7 @@ video{
 }
 #problemstatement h1{
     margin-left: 120px;
-    font-family: 'Neue Montreal';
+    font-family: Arial, Helvetica, sans-serif;
     color: #444444;
 }
 #problemstatement h4{
@@ -1056,12 +1056,12 @@ video{
     color: #000000;
     font-weight: 490;
     margin-right: 120px;
-    font-family: 'Neue Montreal';
+    font-family: Arial, Helvetica, sans-serif;
 }
 #problemstatement h4 span{
     color: #444444;
     font-weight: 700;
-    font-family: 'Neue Montreal';
+    font-family: Arial, Helvetica, sans-serif;
     background-color: #ffe4c4b8;
 }
 
@@ -1073,13 +1073,13 @@ video{
     color: #000000;
     font-weight: 490;
     margin-right: 120px;
-    font-family: 'Neue Montreal';
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #problemstatement p span{
     color: #444444;
     font-weight: 700;
-    font-family: 'Neue Montreal';
+    font-family:Arial, Helvetica, sans-serif;
     background-color: #ffe4c4b8;
 }
 #possiblesolutions{
@@ -1088,7 +1088,7 @@ video{
 }
 #possiblesolutions h1{
     margin-left: 120px;
-    font-family: 'Neue Montreal';
+    font-family: Arial, Helvetica, sans-serif;
     color: #444444;
 }
 
@@ -1100,13 +1100,13 @@ video{
     color: #000000;
     font-weight: 490;
     margin-right: 120px;
-    font-family: 'Neue Montreal';
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #possiblesolutions p span{
     color: #444444;
     font-weight: 700;
-    font-family: 'Neue Montreal';
+    font-family: Arial, Helvetica, sans-serif;
     background-color: #ffe4c4b8;
 }
 
@@ -1128,7 +1128,7 @@ video{
 }
 #designprocess h1{
     margin-left: 120px;
-    font-family: 'Neue Montreal';
+    font-family:Arial, Helvetica, sans-serif;
     color: #444444;
 }
 
@@ -1140,7 +1140,7 @@ video{
     color: #000000;
     font-weight: 490;
     margin-right: 120px;
-    font-family: 'Neue Montreal';
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #designprocess img{
@@ -1189,14 +1189,14 @@ video{
     margin-left: 72px;
     margin-bottom: 20px;
     color: #7b5e51;
-    font-family: 'Neue Montreal';
+    font-family: Arial, Helvetica, sans-serif;
 }
 #qualinsights p{
     margin-left: 60px;
     font-size: 18px;
     font-weight: 500;
     margin-top: 4px;
-    font-family: 'Neue Montreal';
+    font-family: Arial, Helvetica, sans-serif;
 }
 #quaninsights{
     width: 85%;
@@ -1218,14 +1218,14 @@ video{
     margin-left: 72px;
     margin-bottom: 20px;
     color: #7b5e51;
-    font-family: 'Neue Montreal';
+    font-family: Arial, Helvetica, sans-serif;
 }
 #quaninsights p{
     margin-left: 60px;
     font-size: 18px;
     font-weight: 500;
     margin-top: 4px;
-    font-family: 'Neue Montreal';
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #define{
@@ -1251,7 +1251,7 @@ video{
     font-size: 2.6rem;
     margin-left: 12px;
     margin-bottom: 6px;
-    font-family: 'Neue Montreal';
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #persona p{
@@ -1259,7 +1259,7 @@ video{
     font-size: 1.2rem;
     margin-left: 16px;
     margin-bottom: 32px;
-    font-family: 'Neue Montreal';
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #persona img{
@@ -1278,7 +1278,7 @@ video{
     font-size: 2.6rem;
     margin-left: 12px;
     margin-bottom: 6px;
-    font-family: 'Neue Montreal';
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #EM p{
@@ -1286,7 +1286,7 @@ video{
     font-size: 1.2rem;
     margin-left: 16px;
     margin-bottom: 32px;
-    font-family: 'Neue Montreal';
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #EM img{
@@ -1318,7 +1318,7 @@ video{
     font-size: 2.6rem;
     margin-left: 12px;
     margin-bottom: 6px;
-    font-family: 'Neue Montreal';
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #userflow1 p{
@@ -1326,7 +1326,7 @@ video{
     font-size: 1.2rem;
     margin-left: 16px;
     margin-bottom: 32px;
-    font-family: 'Neue Montreal';
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #userflow1 img{
@@ -1369,7 +1369,7 @@ video{
     font-size: 2.6rem;
     margin-left: 12px;
     margin-bottom: 6px;
-    font-family: 'Neue Montreal';
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #IA p{
@@ -1377,7 +1377,7 @@ video{
     font-size: 1.2rem;
     margin-left: 16px;
     margin-bottom: 32px;
-    font-family: 'Neue Montreal';
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #IA img{
@@ -1424,7 +1424,7 @@ video{
     font-size: 2.6rem;
     margin-left: 12px;
     margin-bottom: 6px;
-    font-family: 'Neue Montreal';
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #UT p{
@@ -1432,7 +1432,7 @@ video{
     font-size: 1.2rem;
     margin-left: 16px;
     margin-bottom: 32px;
-    font-family:'Neue Montreal';
+    font-family: Arial, Helvetica, sans-serif;
 }
 #UT ul{
     color: #444444;
@@ -1440,7 +1440,7 @@ video{
     font-weight: 100;
     margin-left: 42px;
     margin-bottom: 32px;
-    font-family: 'Neue Montreal';    
+    font-family: Arial, Helvetica, sans-serif;    
 }
 
 #UT ul li{
@@ -1467,14 +1467,14 @@ video{
     margin-left: 72px;
     margin-bottom: 10px;
     color: #7b5e51;
-    font-family: 'Neue Montreal';
+    font-family:Arial, Helvetica, sans-serif;
 }
 #UTI p{
     margin-left: 60px;
     font-size: 18px;
     font-weight: 400;
     margin-top: 4px;
-    font-family: 'Neue Montreal';
+    font-family:Arial, Helvetica, sans-serif;
 }
 
 #IF{
@@ -1488,7 +1488,7 @@ video{
     font-size: 2.6rem;
     margin-left: 12px;
     margin-bottom: 6px;
-    font-family: 'Neue Montreal';
+    font-family:Arial, Helvetica, sans-serif;
 }
 
 #IF p{
@@ -1496,7 +1496,7 @@ video{
     font-size: 1.2rem;
     margin-left: 16px;
     margin-bottom: 32px;
-    font-family: 'Neue Montreal';
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #IF img{
@@ -1550,6 +1550,7 @@ height: 400%;
     margin-top: 5vw;
     width: 100%;
     height: 100%;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 #cs2heading h3{
