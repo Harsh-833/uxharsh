@@ -1,4 +1,6 @@
-///// Gasp ////--
+import { inject } from '@vercel/analytics';
+ 
+inject();///// Gasp ////--
 
 gsap.to("#denis", {
     scrollTrigger:{
