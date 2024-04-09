@@ -1,4 +1,3 @@
-import { inject } from '@vercel/analytics';
 ///// Gasp ////--
 
 gsap.to("#denis", {
@@ -218,4 +217,3 @@ document.querySelector("#close")
     document.querySelector("#menubar").style.left = "150%"
 })
  
-inject();
