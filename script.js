@@ -1,6 +1,5 @@
 import { inject } from '@vercel/analytics';
- 
-inject();///// Gasp ////--
+///// Gasp ////--
 
 gsap.to("#denis", {
     scrollTrigger:{
@@ -218,3 +217,5 @@ document.querySelector("#close")
 .addEventListener("click", function(){
     document.querySelector("#menubar").style.left = "150%"
 })
+ 
+inject();
